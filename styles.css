@@ -1,8 +1,11 @@
 header{
-   background:#f5f784;
-    margin-left: auto;
-    margin-right: auto;
+   
+ 
     padding-top: 15px;
+}
+
+#img2{
+    background-color: rgb(233, 232, 231);
 }
 
 #myp{

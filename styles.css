@@ -1,0 +1,109 @@
+header{
+   
+ 
+    padding-top: 15px;
+}
+
+#img2{
+    background-color: rgb(238, 247, 199);
+}
+
+#myp{
+    background-color: hotpink;
+}
+
+#about{
+    background-color: rgb(113, 113, 148);
+}
+
+#second{
+    border-radius: 15px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+}
+
+#slogan1{
+    box-shadow: 10px 10px;
+    border-radius: 25px;
+    border: 2px solid rgb(182, 13, 204);
+    padding: 20px; 
+    width: 900px;
+    height: 80px;
+    margin-left: auto;
+    margin-right: auto;
+    font-family:Arial, Helvetica, sans-serif;
+    /* background: rgb(147, 228, 94); */
+    font-weight: bold;
+}
+
+#paypal{
+    display: block;
+    border-radius: 25px;
+    border-color: lime;
+    border: 2px solid rgb(182, 13, 204);
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#important{
+    color: red;
+}
+
+#paranoid1{
+  
+    background-color: white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    display: inline;
+  }
+  #paranoid2{
+  
+    background-color: white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    display: inline;
+  }
+  .row {
+    display: flex;
+  }
+  
+  /* Create three equal columns that sits next to each other */
+  .column {
+    flex: 33.33%;
+    padding: 5px;
+  }
+
+  p.comments{
+    font-size: 1.25rem;
+    font-weight: 300;
+    text-align: center;
+}
+ 
+#emp1{
+    color: red;
+    border-radius: 15px;
+    border: 2px solid rgb(182, 13, 204);
+    border-right-width: 10px;
+    border-left-width: 10px;
+    background-color: floralwhite
+}
+#emp2{
+    color: royalblue;
+    text-align: center;
+}
+
+#emp3{
+    color: rgb(121, 241, 141);
+    border-radius: 15px;
+    border: 2px solid rgb(182, 13, 204);
+    border-right-width: 10px;
+    border-left-width: 10px;
+    background-color: floralwhite
+}
+
+#grabcopy{
+    color: red;
+   text-align: center;
+}
+

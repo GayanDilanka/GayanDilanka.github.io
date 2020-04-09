@@ -1,11 +1,12 @@
 header{
    
- 
+    background: rgb(219, 236, 122);
     padding-top: 15px;
 }
 
 #img2{
-    background-color: rgb(238, 247, 199);
+background: rgb(129,44,240);
+background: linear-gradient(180deg, rgba(219, 236, 122) 0%, rgba(242,146,249,1) 42%, rgba(253,254,252,1) 100%);
 }
 
 #myp{
@@ -78,7 +79,7 @@ header{
     border: 2px solid rgb(182, 13, 204);
     border-right-width: 10px;
     border-left-width: 10px;
-    background-color: floralwhite
+    background-color: rgb(255, 255, 255)
 }
 #emp2{
     color: royalblue;
@@ -98,4 +99,3 @@ header{
     color: red;
    text-align: center;
 }
-
